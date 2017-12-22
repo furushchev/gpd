@@ -1,5 +1,5 @@
 import rospy
-from grasp_candidates_classifier.msg import GraspConfigList
+from gpd.msg import GraspConfigList
 
 
 grasps = []
